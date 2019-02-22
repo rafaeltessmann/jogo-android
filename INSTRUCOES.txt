@@ -1,0 +1,5 @@
+- Descomentar as linhas 80 (popula criaturas) e 81 (inicialogado=false) na primeira vez em que abrir o arquivo
+- Fazer cadastro do jogador (Nesse momento serão atribuidas as criaturas ao jogador na tabela de vinculo)
+- Na tela perfil jogador serão visualizadas as criaturas vinculadas ao jogador logado
+- É possível cadastrar varios jogadores, onde cada jogador terá suas criaturas
+- Clicando sobre a criatura no listview irá trazer mais informações sobre ela e também possibilita excluir

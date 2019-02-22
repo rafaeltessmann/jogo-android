@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_botao">25dp</dimen>
+    <dimen name="tamanho_texto">20sp</dimen>
+    <dimen name="tamanho_titulo2">23sp</dimen>
+    <dimen name="tamanho_texto2">12sp</dimen>
+</resources>
